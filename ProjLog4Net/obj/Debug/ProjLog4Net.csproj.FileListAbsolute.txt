@@ -1,0 +1,10 @@
+C:\Users\Usuário\Desktop\ProjLog4Net\ProjLog4Net\bin\Debug\ProjLog4Net.exe.config
+C:\Users\Usuário\Desktop\ProjLog4Net\ProjLog4Net\bin\Debug\ProjLog4Net.exe
+C:\Users\Usuário\Desktop\ProjLog4Net\ProjLog4Net\bin\Debug\ProjLog4Net.pdb
+C:\Users\Usuário\Desktop\ProjLog4Net\ProjLog4Net\bin\Debug\log4net.dll
+C:\Users\Usuário\Desktop\ProjLog4Net\ProjLog4Net\bin\Debug\log4net.xml
+C:\Users\Usuário\Desktop\ProjLog4Net\ProjLog4Net\obj\Debug\ProjLog4Net.csprojResolveAssemblyReference.cache
+C:\Users\Usuário\Desktop\ProjLog4Net\ProjLog4Net\obj\Debug\ProjLog4Net.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\Desktop\ProjLog4Net\ProjLog4Net\obj\Debug\ProjLog4Net.csproj.CopyComplete
+C:\Users\Usuário\Desktop\ProjLog4Net\ProjLog4Net\obj\Debug\ProjLog4Net.exe
+C:\Users\Usuário\Desktop\ProjLog4Net\ProjLog4Net\obj\Debug\ProjLog4Net.pdb
